@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @dennisdsilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Favourite website for shopping - <a href="https://londonrag.com/">londonrag</a>
+- 👀 I’m interested in developng sites & softwares 
+- 🌱 I’m currently learning full stack web development 
+- 📫 Connect with me on Instagram- @dennisdsilvaaa
+
 
 <!---
 dennisdsilva/dennisdsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
